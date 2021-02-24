@@ -7,17 +7,14 @@
 # Rafael Messias Grecco
 <sub>*Electrical engineering student</sub>
 
-Electrical Engineering student and technology enthusiast with projects in the fields of Data Science, Machine Learning, Deep Learning, Computer Vision and Time Series
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Electrical Engineering student and technology enthusiast with projects in the fields of Data Science, Machine Learning, Deep Learning, Computer Vision and Time Series.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/rafael-grecco-3b11681b4/)
+* [Medium](https://rafaelgrecco.medium.com/)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
