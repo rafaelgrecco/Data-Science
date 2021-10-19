@@ -23,3 +23,5 @@ Electrical Engineering student and technology enthusiast with projects in the fi
 * **Add-Watermark Project:** http://bit.ly/3uxIDdu
 * **Filter Selector with Streamlit and OpenCV:** https://bit.ly/3yD62vT
 * **Heart Attack Analysis and Prediction:** https://bit.ly/3wy3FbZ
+* **Análise de Dados do Airbnb:** https://bit.ly/2Zet7Iq
+* **Water Quality Classification:** https://bit.ly/3vuE9Fu
